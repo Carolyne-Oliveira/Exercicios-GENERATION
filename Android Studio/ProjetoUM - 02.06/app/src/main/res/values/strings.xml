@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Projeto UM</string>
+    <string name="textview" translatable="false">TextView</string>
+</resources>
