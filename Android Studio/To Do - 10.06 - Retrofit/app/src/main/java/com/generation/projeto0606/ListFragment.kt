@@ -29,7 +29,8 @@ class ListFragment : Fragment() {
                 "Carolyne",
                 "2022-06-15",
                 false,
-                "Dia a Dia"
+                "Dia a Dia",
+                " "
             ),
             Tarefa(
                 "Ir ao Cinema",
@@ -37,7 +38,8 @@ class ListFragment : Fragment() {
                 "Carolyne",
                 "2022-06-20",
                 false,
-                "Lazer"
+                "Lazer",
+                " "
             ),
             Tarefa(
                 "Correr no parque",
@@ -45,7 +47,8 @@ class ListFragment : Fragment() {
                 "Carolyne",
                 "2022-06-09",
                 true,
-                "Lazer"
+                "Lazer",
+                " "
             ),
 
         )

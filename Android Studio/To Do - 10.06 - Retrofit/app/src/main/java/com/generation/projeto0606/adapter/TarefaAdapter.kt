@@ -29,9 +29,9 @@ class TarefaAdapter : RecyclerView.Adapter<TarefaAdapter.TarefaViewHolder>(){
         holder.binding.textNome.text = tarefa.nome
         holder.binding.textDescriO.text = tarefa.descricao
         holder.binding.textResponsVel.text = tarefa.responsavel
-        holder.binding.textData.text = tarefa.data
-        holder.binding.switchAtivo.isChecked = tarefa.status
-        holder.binding.textCategoria.text = tarefa.categoria.descricao
+        holder.binding.textData.text = tarefa.data.toString()
+        holder.binding.switchAtivo.isChecked = tarefa.status.toBoolean()
+        holder.binding.textCategoria.text = tarefa.categoria
 
     }
 
