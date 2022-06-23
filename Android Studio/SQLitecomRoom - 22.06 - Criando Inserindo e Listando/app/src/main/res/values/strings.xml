@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite com Room</string>
+    <string name="adicionar">ADICIONAR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adicionar1">ADICIONAR</string>
+</resources>
